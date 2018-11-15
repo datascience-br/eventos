@@ -4,17 +4,17 @@
 <h1 align="center">Eventos</h1>
 <p align="center">:date: Lista de eventos, meetups, encontros e qualquer tipo de aglomeração de data scientist.</p>
 
-# AVISO
+# :warning: AVISO
 
 Temos uma ferramenta que exibirá os eventos de forma mais organizada. Você pode contribuir visitando os nossos milestones e conferindo o andamento desse projeto.
 
 Para saber como contribuir, acesse o arquivo [about.md](about.md) e [CONTRIBUTING.md](CONTRIBUTING.md) e siga as instruções =)
 
-## Como funciona
+## :rainbow: Como funciona
 
 Se você tem algum evento (seja participante ou mesmo criador) pode adicionar aqui, seguindo um template básico que vamos descrever logo abaixo, ou enviando um pull request direto no nosso site. Siga as instruções [desse link](CONTRIBUTING.md).
 
-## Template
+## :scroll: Template
 
 Pra facilitar a adição de um evento, criamos um template básico pra nos enviar.
 
@@ -39,10 +39,10 @@ Pra facilitar a adição de um evento, criamos um template básico pra nos envia
 Aguarde a aprovação!
 
  
-## Licença
+## :copyright: Licença
 
 [MIT](LICENSE.md) &copy; datascience-br
 
-# Author
-Esse repositório é um projeto originalmente desenvolvido pela comunidade [FrontEnd BR]('https://github.com/frontendbr')
+# :shipit: Author
+Esse é um projeto originalmente desenvolvido pela comunidade FrontEndBR: https://github.com/frontendbr
 
