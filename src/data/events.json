@@ -1,0 +1,77 @@
+[
+  {
+    "title": "Bots brasil 2018",
+    "date": {
+      "day": "17",
+      "month": "Novembro",
+      "year": 2018
+    },
+    "link": "https://www.sympla.com.br/conferencia-bots-brasil-2018__323117?d=bots-battle",
+    "price": "R$146,30 - R$174,30",
+    "location": {
+      "city": "São paulo",
+      "state": "SP",
+      "address": "Club Homs - São Paulo, SP",
+      "locationUrl": "https://www.google.com.br/maps?q=Club+Homs+-+S%C3%A3o+Paulo,+SP&um=1&ie=UTF-8&sa=X&ved=0ahUKEwjAldfUttLeAhXEH5AKHZeECfYQ_AUIDigB"
+    },
+    "image": "https://images.sympla.com.br/5b4be89b4d0a9-lg.png",
+    "shortDescription": "A maior e mais importante conferência LATAM organizada pela 2ª maior comunidade de pessoas interessadas em Bots, IA e CUIs do mundo."
+  },
+  {
+    "title": "AI Fest",
+    "date": {
+      "day": "8",
+      "month": "Dezembro",
+      "year": 2018
+    },
+    "link": "https://www.sympla.com.br/aifest2018__393878",
+    "price": "Grátis",
+    "location": {
+      "city": "São paulo",
+      "state": "SP",
+      "address": "IBM Tutoia - Rua tutoia 1157",
+      "locationUrl": "https://www.google.com/maps/search/?api=1&query=-23.572900%2C-46.652760"
+    },
+    "image": "https://images.sympla.com.br/5bd87d4aa1de2-lg.png",
+    "shortDescription": "Comemoração de 1 ano do AI Brasil"
+  },
+  {
+    "title": "Global AI bootcamp",
+    "date": {
+      "day": "15",
+      "month": "Dezembro",
+      "year": 2018
+    },
+    "link": "https://www.meetup.com/pt-BR/DevelopersBR/events/255057782/",
+    "price": "Grátis",
+    "location": {
+      "city": "",
+      "state": "Online",
+      "address": "https://www.globalaibootcamp.com/",
+      "locationUrl": "https://www.globalaibootcamp.com/"
+    },
+    "image": "https://www.globalaibootcamp.com/themes/images/slide-1.jpg",
+    "shortDescription": "Um evento global sobre AI nas stacks da Microsoft"
+  },
+
+  {
+    "title": "1o Encontro | Qlik São Paulo",
+    "date": {
+      "day": "9",
+      "month": "Janeiro",
+      "year": 2019
+    },
+    "link": "https://www.meetup.com/pt-BR/Qlik-Sao-Paulo/events/255392425/",
+    "price": "Gráis",
+    "location": {
+      "city": "São paulo",
+      "state": "SP",
+      "address": "Start Bucks Villa OLimpia - R. Gomes de Carvalho, 1740",
+      "locationUrl": "https://www.google.com/maps/search/?api=1&query=-23.594995%2C-46.689186"
+    },
+    "image": "https://www.meetup.com/mu_static/pt-BR/logo--script.004ada05.svg",
+    "shortDescription": "1º Encontro Qlik São Paulo"
+  }
+]
+
+  
