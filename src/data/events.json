@@ -18,6 +18,132 @@
     "shortDescription": "A maior e mais importante conferência LATAM organizada pela 2ª maior comunidade de pessoas interessadas em Bots, IA e CUIs do mundo."
   },
   {
+    "title": "TDC | Trilha Data science",
+    "date": {
+      "day": "5",
+      "month": "Dezembro",
+      "year": 2018
+    },
+    "link": "http://www.thedevelopersconference.com.br/tdc/2018/portoalegre/trilha-datascience",
+    "price": "R$265,00",
+    "location": {
+      "city": "Porto Alegre",
+      "state": "RS",
+      "address": "Rua Orfanotrófio, 555 - Alto Teresópolis",
+      "locationUrl": "http://www.thedevelopersconference.com.br/tdc/2018/data-e-local"
+    },
+    "image": "https://s3-sa-east-1.amazonaws.com/globalcodesp/tdc/2015/img/logo/logo-tdc-horizontal.svg",
+    "shortDescription": "Se há dados, há oportunidades de transformação. Esta trilha busca contar histórias a partir de dados, abrangendo aplicações práticas que fazem uso de machine learning, mineração de dados e/ou matemática/estatística."
+  },
+  {
+    "title": "TDC | Trilha Data science 2",
+    "date": {
+      "day": "5",
+      "month": "Dezembro",
+      "year": 2018
+    },
+    "link": "http://www.thedevelopersconference.com.br/tdc/2018/portoalegre/trilha-datascience2",
+    "price": "R$265,00",
+    "location": {
+      "city": "Porto Alegre",
+      "state": "RS",
+      "address": "Rua Orfanotrófio, 555 - Alto Teresópolis",
+      "locationUrl": "http://www.thedevelopersconference.com.br/tdc/2018/data-e-local"
+    },
+    "image": "https://s3-sa-east-1.amazonaws.com/globalcodesp/tdc/2015/img/logo/logo-tdc-horizontal.svg",
+    "shortDescription": "Se há dados, há oportunidades de transformação. Esta trilha busca contar histórias a partir de dados, abrangendo aplicações práticas que fazem uso de machine learning, mineração de dados e/ou matemática/estatística."
+  },
+  {
+    "title": "TDC | Trilha Machine learning",
+    "date": {
+      "day": "6",
+      "month": "Dezembro",
+      "year": 2018
+    },
+    "link": "http://www.thedevelopersconference.com.br/tdc/2018/portoalegre/trilha-machine-learning",
+    "price": "R$265,00",
+    "location": {
+      "city": "Porto Alegre",
+      "state": "RS",
+      "address": "Rua Orfanotrófio, 555 - Alto Teresópolis",
+      "locationUrl": "http://www.thedevelopersconference.com.br/tdc/2018/data-e-local"
+    },
+    "image": "https://s3-sa-east-1.amazonaws.com/globalcodesp/tdc/2015/img/logo/logo-tdc-horizontal.svg",
+    "shortDescription": "A trilha irá abordar de todas as formas possíveis as utilizações de Machine Learning hoje e no futuro."
+  },
+  {
+    "title": "TDC | Trilha Machine learning 2",
+    "date": {
+      "day": "6",
+      "month": "Dezembro",
+      "year": 2018
+    },
+    "link": "http://www.thedevelopersconference.com.br/tdc/2018/portoalegre/trilha-machine-learning2",
+    "price": "R$265,00",
+    "location": {
+      "city": "Porto Alegre",
+      "state": "RS",
+      "address": "Rua Orfanotrófio, 555 - Alto Teresópolis",
+      "locationUrl": "http://www.thedevelopersconference.com.br/tdc/2018/data-e-local"
+    },
+    "image": "https://s3-sa-east-1.amazonaws.com/globalcodesp/tdc/2015/img/logo/logo-tdc-horizontal.svg",
+    "shortDescription": "A trilha irá abordar de todas as formas possíveis as utilizações de Machine Learning hoje e no futuro."
+  },
+  {
+    "title": "TDC | Trilha Inteligência artificial",
+    "date": {
+      "day": "7",
+      "month": "Dezembro",
+      "year": 2018
+    },
+    "link": "http://www.thedevelopersconference.com.br/tdc/2018/portoalegre/trilha-inteligencia-artificial",
+    "price": "R$265,00",
+    "location": {
+      "city": "Porto Alegre",
+      "state": "RS",
+      "address": "Rua Orfanotrófio, 555 - Alto Teresópolis",
+      "locationUrl": "http://www.thedevelopersconference.com.br/tdc/2018/data-e-local"
+    },
+    "image": "https://s3-sa-east-1.amazonaws.com/globalcodesp/tdc/2015/img/logo/logo-tdc-horizontal.svg",
+    "shortDescription": "A descoberta do fogo, da eletricidade e o desenvolvimento das maquinas mecânicas , nada se compara com a revolução que estamos vendo acontecer atualmente, a inteligência artificial veio para ficar e dominar o mundo na revolução industrial 4.0, muito ainda está por vir, com toda a capacidade que essa tecnologia pode nos trazer e mudar o mundo como o conhecemos hoje."
+  },
+  {
+    "title": "TDC | Trilha Big data",
+    "date": {
+      "day": "7",
+      "month": "Dezembro",
+      "year": 2018
+    },
+    "link": "http://www.thedevelopersconference.com.br/tdc/2018/portoalegre/trilha-bigdata",
+    "price": "R$265,00",
+    "location": {
+      "city": "Porto Alegre",
+      "state": "RS",
+      "address": "Rua Orfanotrófio, 555 - Alto Teresópolis",
+      "locationUrl": "http://www.thedevelopersconference.com.br/tdc/2018/data-e-local"
+    },
+    "image": "https://s3-sa-east-1.amazonaws.com/globalcodesp/tdc/2015/img/logo/logo-tdc-horizontal.svg",
+    "shortDescription": "Vamos falar sobre processamento, tratamento e como analisar os dados pode mudar completamente a história da sua empresa. E também sobre novas tecnologias de mercado, as ferramentas mais usadas no Brasil e no mundo, cases reais de grandes corporações, e é claro a integração de big data e machine learning. Afinal a informação é o petróleo do século 21 e a análise é o motor de combustão. Nós veementemente acreditamos em dados, somos apaixonados por dados, somos guiados por dados."
+  },
+  {
+    "title": "TDC | Trilha Chat Bots",
+    "date": {
+      "day": "7",
+      "month": "Dezembro",
+      "year": 2018
+    },
+    "link": "http://www.thedevelopersconference.com.br/tdc/2018/portoalegre/trilha-chatbots",
+    "price": "R$265,00",
+    "location": {
+      "city": "Porto Alegre",
+      "state": "RS",
+      "address": "Rua Orfanotrófio, 555 - Alto Teresópolis",
+      "locationUrl": "http://www.thedevelopersconference.com.br/tdc/2018/data-e-local"
+    },
+    "image": "https://s3-sa-east-1.amazonaws.com/globalcodesp/tdc/2015/img/logo/logo-tdc-horizontal.svg",
+    "shortDescription": "O recentemente aumento do interesse no entorno de Chatbots e interfaces conversacionais indica que a adoção dessas tecnologias, muito em breve, deve aumentar drasticamente. Nesta trilha traremos palestras introdutórias aos temas bem como palestras sobre as tecnologias e métodos envolvidos na criação de chatbots e no processo de criação de interfaces conversacionais."
+  },
+  {
     "title": "AI Fest",
     "date": {
       "day": "8",
@@ -53,7 +179,6 @@
     "image": "https://www.globalaibootcamp.com/themes/images/slide-1.jpg",
     "shortDescription": "Um evento global sobre AI nas stacks da Microsoft"
   },
-
   {
     "title": "1o Encontro | Qlik São Paulo",
     "date": {

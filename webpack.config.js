@@ -3,7 +3,7 @@
 const path = require('path')
 const webpack = require('webpack')
 const validate = require('webpack-validator')
-const port = process.env.PORT || 3000
+const port = process.env.PORT || 8080
 module.exports = validate({
   devtool: 'source-map',
 

@@ -1,3 +1,15 @@
+## Adicionando um novo evento
+
+Para adicionar um novo evento, edite o arquivo `src/data/events.json`, seguindo as seguintes regras:
+
+1. Os eventos devem estar em ordem de data, crescente, ou seja, os mais próximos devem ficar no início do arquivo, e os próximos, seguindo a ordem de data, um após o outro;
+- Não altere a entrada `innerLink`, pois ainda não temos a página interna do evento, que será desenvolvida futuramente;
+- Verifique se todos os dados estão preenchidos corretamente;
+- Se for adicionar uma imagem ao seu evento, não comite ela junto com o `json`. Utilize uma URL externa. **Dica:** se você arrastar uma imagem qualquer no campo de criar nova issue (ou pull request) aqui mesmo no GitHub, ele tá dá um link para um CDN próprio apontando para essa imagem. Você pode usar esse link para a imagem do evento ;)
+- Após atualizar o JSON, suba o projeto localmente e verifique se está tudo correto;
+- Envie um pull request na branch **develop** e marque algum dos administradores da organização, para que alguém possa validar e fazer o merge;
+- Aguarde aprovação.
+
 # Como contribuir com esse projeto
 
 1. Certifique-se de que você tem as dependências globais, listadas em [about.md](about.md);
@@ -18,18 +30,6 @@
 - Envie um pull request no repositório `https://github.com/datascience-br/eventos`, na branch **develop**;
 - Marque algum dos administradores da organização, para que possamos analisar o pull request;
 - Aguarde sua feature ser adicionada =)
-
-## Adicionando um novo evento
-
-Para adicionar um novo evento, edite o arquivo `src/data/events.json`, seguindo as seguintes regras:
-
-1. Os eventos devem estar em ordem de data, crescente, ou seja, os mais próximos devem ficar no início do arquivo, e os próximos, seguindo a ordem de data, um após o outro;
-- Não altere a entrada `innerLink`, pois ainda não temos a página interna do evento, que será desenvolvida futuramente;
-- Verifique se todos os dados estão preenchidos corretamente;
-- Se for adicionar uma imagem ao seu evento, não comite ela junto com o `json`. Utilize uma URL externa. **Dica:** se você arrastar uma imagem qualquer no campo de criar nova issue (ou pull request) aqui mesmo no GitHub, ele tá dá um link para um CDN próprio apontando para essa imagem. Você pode usar esse link para a imagem do evento ;)
-- Após atualizar o JSON, suba o projeto localmente e verifique se está tudo correto;
-- Envie um pull request na branch **develop** e marque algum dos administradores da organização, para que alguém possa validar e fazer o merge;
-- Aguarde aprovação.
 
 ## Aos colaboradores que irão validar um pull request
 

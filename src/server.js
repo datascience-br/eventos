@@ -3,7 +3,7 @@
 const webpack = require('webpack')
 const WebpackDevServer = require('webpack-dev-server')
 const config = require('../webpack.config')
-const port = process.env.PORT || 3000
+const port = process.env.PORT || 8080
 console.log(port)
 
 new WebpackDevServer(webpack(config), {
