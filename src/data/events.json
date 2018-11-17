@@ -1,21 +1,21 @@
 [
   {
-    "title": "Bots brasil 2018",
+    "title": "Bootcamp Data Science Minerando Dados",
     "date": {
-      "day": "17",
+      "day": "17,18",
       "month": "Novembro",
       "year": 2018
     },
-    "link": "https://www.sympla.com.br/conferencia-bots-brasil-2018__323117?d=bots-battle",
-    "price": "R$146,30 - R$174,30",
+    "link": "https://www.sympla.com.br/sobre-o-evento?id=367940",
+    "price": "R$899,90",
     "location": {
       "city": "São paulo",
-      "state": "SP",
-      "address": "Club Homs - São Paulo, SP",
-      "locationUrl": "https://www.google.com.br/maps?q=Club+Homs+-+S%C3%A3o+Paulo,+SP&um=1&ie=UTF-8&sa=X&ved=0ahUKEwjAldfUttLeAhXEH5AKHZeECfYQ_AUIDigB"
+      "state": "MG",
+      "address": " Castelo de Alcazar, 125, Castelo",
+      "locationUrl": "https://www.google.com.br/maps?q=Castelo+de+Alcazar,+125,+Castelo+%E2%80%93+BH/MG&um=1&ie=UTF-8&sa=X&ved=0ahUKEwigoaeRydveAhXDgJAKHRcaDygQ_AUIDigB"
     },
-    "image": "https://images.sympla.com.br/5b4be89b4d0a9-lg.png",
-    "shortDescription": "A maior e mais importante conferência LATAM organizada pela 2ª maior comunidade de pessoas interessadas em Bots, IA e CUIs do mundo."
+    "image": "https://user-images.githubusercontent.com/3044244/48642041-dae26f00-e9c2-11e8-87af-7d41eae532d8.png",
+    "shortDescription": "Bootcamp em Data Sciente para você mergulhar nos dados e aprender a extrair insights valiosos. Alavanque a sua carreira como Cientista de Dados."
   },
   {
     "title": "TDC | Trilha Data science",
@@ -171,13 +171,13 @@
     "link": "https://www.meetup.com/pt-BR/DevelopersBR/events/255057782/",
     "price": "Grátis",
     "location": {
-      "city": "",
-      "state": "Online",
-      "address": "https://www.globalaibootcamp.com/",
-      "locationUrl": "https://www.globalaibootcamp.com/"
+      "city": "Rio de Janeiro",
+      "state": "RJ",
+      "address": "Rua São José, no 90 - Centro",
+      "locationUrl": "https://www.google.com.br/maps/place/R.+S%C3%A3o+Jos%C3%A9,+90+-+Centro,+Rio+de+Janeiro+-+RJ,+20010-020/data=!4m2!3m1!1s0x997f5fd4ea309b:0xbf23f1d8034648e0?ved=2ahUKEwijvevdydveAhXJl5AKHYCPDm4Q8gEwAHoECAUQAQ"
     },
     "image": "https://www.globalaibootcamp.com/themes/images/slide-1.jpg",
-    "shortDescription": "Um evento global sobre AI nas stacks da Microsoft"
+    "shortDescription": "O Global AI Bootcamp é um evento gratuito de um dia organizado por comunidades locais de todo o mundo que são apaixonadas por Inteligência Artificial ligadas as stacks da Microsoft. Durante este Bootcamp de IA, você se inspirará em sessões e teremos muitos hands-on durante as oficinas. No final do dia, você será capaz de criar seu próprios aplicativos fazendo uso de recursos de IA"
   },
   {
     "title": "1o Encontro | Qlik São Paulo",

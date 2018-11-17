@@ -4,7 +4,6 @@ const webpack = require('webpack')
 const WebpackDevServer = require('webpack-dev-server')
 const config = require('../webpack.config')
 const port = process.env.PORT || 8080
-console.log(port)
 
 new WebpackDevServer(webpack(config), {
   publicPath: config.output.publicPath,
@@ -16,7 +15,7 @@ new WebpackDevServer(webpack(config), {
   stats: { colors: true }
 }).listen(port, (err) => {
   if (err) {
-    return console.log(err)
+    // return console.log(err)
   }
 
   console.info('==> 🌎  Listening on port %s', port)
