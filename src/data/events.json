@@ -108,6 +108,24 @@
     "shortDescription": "A descoberta do fogo, da eletricidade e o desenvolvimento das maquinas mecânicas , nada se compara com a revolução que estamos vendo acontecer atualmente, a inteligência artificial veio para ficar e dominar o mundo na revolução industrial 4.0, muito ainda está por vir, com toda a capacidade que essa tecnologia pode nos trazer e mudar o mundo como o conhecemos hoje."
   },
   {
+    "title": "TDC | Trilha Inteligência artificial",
+    "date": {
+      "day": "07,08",
+      "month": "Dezembro",
+      "year": 2018
+    },
+    "link": "https://www.sympla.com.br/bootcamp-data-science-minerando-dados__367940",
+    "price": "R$899,90",
+    "location": {
+      "city": "Campos dos Goytacazes",
+      "state": "RJ",
+      "address": "Teccampos, Avenida Alberto Lamego, 2000, Campus da Uenf, Cent, Parque Califórnia",
+      "locationUrl": "https://www.google.com.br/maps/search/Teccampos,+Avenida+Alberto+Lamego,+2000,+Campus+da+Uenf,+Cent,+Parque+Calif%C3%B3rnia+Campos+dos+Goytacazes,+RJ/@-21.7030052,-41.4961436,10.88z"
+    },
+    "image": "https://user-images.githubusercontent.com/3044244/48642041-dae26f00-e9c2-11e8-87af-7d41eae532d8.png",
+    "shortDescription": "Bootcamp em Data Sciente para você mergulhar nos dados e aprender a extrair insights valiosos. Alavanque a sua carreira como Cientista de Dados."
+  },
+  {
     "title": "TDC | Trilha Big data",
     "date": {
       "day": "7",
