@@ -1,23 +1,5 @@
 [
   {
-    "title": "Bootcamp Data Science Minerando Dados",
-    "date": {
-      "day": "17,18",
-      "month": "Novembro",
-      "year": 2018
-    },
-    "link": "https://www.sympla.com.br/sobre-o-evento?id=367940",
-    "price": "R$899,90",
-    "location": {
-      "city": "São paulo",
-      "state": "MG",
-      "address": " Castelo de Alcazar, 125, Castelo",
-      "locationUrl": "https://www.google.com.br/maps?q=Castelo+de+Alcazar,+125,+Castelo+%E2%80%93+BH/MG&um=1&ie=UTF-8&sa=X&ved=0ahUKEwigoaeRydveAhXDgJAKHRcaDygQ_AUIDigB"
-    },
-    "image": "https://user-images.githubusercontent.com/3044244/48642041-dae26f00-e9c2-11e8-87af-7d41eae532d8.png",
-    "shortDescription": "Bootcamp em Data Sciente para você mergulhar nos dados e aprender a extrair insights valiosos. Alavanque a sua carreira como Cientista de Dados."
-  },
-  {
     "title": "TDC | Trilha Data science",
     "date": {
       "day": "5",
