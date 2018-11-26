@@ -1,5 +1,23 @@
 [
   {
+    "title": "III Workshop de Mineração de Dados",
+    "date": {
+      "day": "30",
+      "month": "Novembro",
+      "year": 2018
+    },
+    "link": "http://www.thedevelopersconference.com.br/tdc/2018/portoalegre/trilha-datascience",
+    "price": "Grátis",
+    "location": {
+      "city": "Recife",
+      "state": "PE",
+      "address": "POLI - Escola Politécnica de Pernambuco | R. Benfica, 455 - Madalena, Recife - PE, 50720-001",
+      "locationUrl": "https://www.google.com.br/maps?q=POLI+-+Escola+Polit%C3%A9cnica+de+Pernambuco&cshid=1543230788202000&biw=648&bih=622&um=1&ie=UTF-8&sa=X&ved=0ahUKEwiGxO_f9vHeAhVMiJAKHdAzA6oQ_AUICygC"
+    },
+    "image": "https://scontent.fcgh11-1.fna.fbcdn.net/v/t1.0-9/46826215_343516643048194_8497085142886514688_n.jpg?_nc_cat=106&_nc_ht=scontent.fcgh11-1.fna&oh=ba604d60497c495eeeb6641ea14e87f4&oe=5CAC392B",
+    "shortDescription": " O Workshop de Mineração de Dados continua crescendo, está partindo para a sua 3ª Edição, trazendo uma boa variedade de conteúdo com trabalho sobre o estudo e aplicação de Mineração de Dados na solução de problemas sociais, governamentais, industriais e educacionais."
+  },
+  {
     "title": "TDC | Trilha Data science",
     "date": {
       "day": "5",
